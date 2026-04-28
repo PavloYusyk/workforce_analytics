@@ -11,5 +11,6 @@ SQL + Power BI project analyzing employee distribution, tenure, turnover, and wo
 - Tenure analysis
 - Turnover metrics
 - Diversity insights
+
 **Dashboard Preview:** 
 [Open PDF](powerbi_dashboard/workforce_analytics_dashboard.pdf)
