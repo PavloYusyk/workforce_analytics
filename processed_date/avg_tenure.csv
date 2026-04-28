@@ -1,0 +1,347 @@
+"year","department","turnover_rate"
+2000,Accounting,0.00
+2001,Accounting,0.00
+2002,Accounting,0.27
+2003,Accounting,0.92
+2004,Accounting,1.00
+2005,Accounting,1.17
+2006,Accounting,1.09
+2007,Accounting,0.61
+2008,Accounting,1.08
+2009,Accounting,0.61
+2010,Accounting,0.81
+2011,Accounting,0.68
+2012,Accounting,0.94
+2013,Accounting,0.78
+2014,Accounting,0.95
+2015,Accounting,0.68
+2016,Accounting,0.88
+2017,Accounting,0.72
+2018,Accounting,1.04
+2019,Accounting,1.10
+2020,Accounting,0.79
+2021,Accounting,1.06
+2022,Accounting,0.90
+2023,Accounting,0.88
+2024,Accounting,0.58
+2025,Accounting,0.82
+2026,Accounting,0.24
+2000,Auditing,0.00
+2001,Auditing,0.00
+2002,Auditing,16.67
+2003,Auditing,0.00
+2004,Auditing,0.00
+2005,Auditing,0.00
+2006,Auditing,0.00
+2007,Auditing,4.76
+2008,Auditing,0.00
+2009,Auditing,0.00
+2010,Auditing,3.57
+2011,Auditing,0.00
+2012,Auditing,0.00
+2013,Auditing,0.00
+2014,Auditing,0.00
+2015,Auditing,2.44
+2017,Auditing,0.00
+2018,Auditing,2.44
+2019,Auditing,2.38
+2020,Auditing,0.00
+2021,Auditing,4.55
+2024,Auditing,2.33
+2025,Auditing,2.38
+2000,Business Development,0.00
+2001,Business Development,1.03
+2002,Business Development,0.00
+2003,Business Development,0.70
+2004,Business Development,0.82
+2005,Business Development,1.62
+2006,Business Development,1.20
+2007,Business Development,0.87
+2008,Business Development,1.23
+2009,Business Development,0.27
+2010,Business Development,0.88
+2011,Business Development,0.35
+2012,Business Development,1.19
+2013,Business Development,0.80
+2014,Business Development,1.04
+2015,Business Development,0.62
+2016,Business Development,0.83
+2017,Business Development,0.62
+2018,Business Development,0.44
+2019,Business Development,0.75
+2020,Business Development,0.79
+2021,Business Development,0.80
+2022,Business Development,0.67
+2023,Business Development,0.34
+2024,Business Development,1.36
+2025,Business Development,0.76
+2026,Business Development,0.21
+2000,Engineering,0.00
+2001,Engineering,0.24
+2002,Engineering,0.42
+2003,Engineering,0.84
+2004,Engineering,0.57
+2005,Engineering,0.83
+2006,Engineering,0.93
+2007,Engineering,0.42
+2008,Engineering,0.93
+2009,Engineering,1.14
+2010,Engineering,1.04
+2011,Engineering,0.98
+2012,Engineering,1.03
+2013,Engineering,0.81
+2014,Engineering,0.76
+2015,Engineering,0.74
+2016,Engineering,0.88
+2017,Engineering,0.81
+2018,Engineering,0.98
+2019,Engineering,0.78
+2020,Engineering,0.87
+2021,Engineering,1.08
+2022,Engineering,0.92
+2023,Engineering,0.88
+2024,Engineering,1.04
+2025,Engineering,0.82
+2026,Engineering,0.19
+2000,Human Resources,0.00
+2001,Human Resources,0.93
+2002,Human Resources,1.07
+2003,Human Resources,0.73
+2004,Human Resources,1.33
+2005,Human Resources,0.85
+2006,Human Resources,1.76
+2007,Human Resources,0.92
+2008,Human Resources,0.83
+2009,Human Resources,0.63
+2010,Human Resources,1.25
+2011,Human Resources,0.83
+2012,Human Resources,0.87
+2013,Human Resources,0.62
+2014,Human Resources,0.42
+2015,Human Resources,1.01
+2016,Human Resources,0.88
+2017,Human Resources,0.70
+2018,Human Resources,0.94
+2019,Human Resources,0.89
+2020,Human Resources,0.48
+2021,Human Resources,1.41
+2022,Human Resources,0.99
+2023,Human Resources,0.87
+2024,Human Resources,0.88
+2025,Human Resources,0.63
+2026,Human Resources,0.25
+2000,Legal,0.00
+2001,Legal,0.00
+2002,Legal,4.55
+2003,Legal,0.00
+2004,Legal,2.08
+2005,Legal,0.00
+2006,Legal,1.14
+2007,Legal,2.94
+2008,Legal,0.88
+2009,Legal,0.78
+2010,Legal,2.13
+2011,Legal,1.92
+2012,Legal,1.17
+2013,Legal,0.53
+2014,Legal,1.01
+2015,Legal,0.00
+2016,Legal,1.35
+2017,Legal,2.07
+2018,Legal,0.00
+2019,Legal,1.12
+2020,Legal,1.08
+2021,Legal,0.36
+2022,Legal,1.09
+2023,Legal,0.74
+2024,Legal,1.87
+2025,Legal,1.52
+2026,Legal,1.15
+2000,Marketing,0.00
+2001,Marketing,0.00
+2002,Marketing,0.00
+2003,Marketing,1.30
+2004,Marketing,0.00
+2005,Marketing,0.00
+2006,Marketing,0.72
+2007,Marketing,0.63
+2008,Marketing,1.09
+2009,Marketing,0.48
+2010,Marketing,0.90
+2011,Marketing,0.79
+2012,Marketing,0.36
+2013,Marketing,0.00
+2014,Marketing,0.62
+2015,Marketing,0.60
+2016,Marketing,0.84
+2017,Marketing,1.05
+2018,Marketing,0.49
+2019,Marketing,2.09
+2020,Marketing,1.32
+2021,Marketing,0.44
+2022,Marketing,0.44
+2023,Marketing,0.89
+2024,Marketing,0.22
+2025,Marketing,1.13
+2000,Product Management,0.00
+2001,Product Management,0.00
+2002,Product Management,0.00
+2003,Product Management,0.93
+2004,Product Management,0.00
+2005,Product Management,1.14
+2006,Product Management,0.48
+2007,Product Management,0.43
+2008,Product Management,1.53
+2009,Product Management,0.68
+2010,Product Management,1.55
+2011,Product Management,0.57
+2012,Product Management,0.79
+2013,Product Management,0.49
+2014,Product Management,0.92
+2015,Product Management,1.31
+2016,Product Management,0.62
+2017,Product Management,0.98
+2018,Product Management,1.11
+2019,Product Management,0.89
+2020,Product Management,1.20
+2021,Product Management,0.52
+2022,Product Management,0.52
+2023,Product Management,0.70
+2024,Product Management,0.70
+2025,Product Management,0.71
+2026,Product Management,0.36
+2000,Research and Development,0.00
+2001,Research and Development,0.00
+2002,Research and Development,0.00
+2003,Research and Development,1.89
+2004,Research and Development,0.95
+2005,Research and Development,1.15
+2006,Research and Development,0.00
+2007,Research and Development,0.55
+2008,Research and Development,1.20
+2009,Research and Development,0.21
+2010,Research and Development,1.35
+2011,Research and Development,0.69
+2012,Research and Development,1.59
+2013,Research and Development,0.74
+2014,Research and Development,0.83
+2015,Research and Development,0.78
+2016,Research and Development,0.49
+2017,Research and Development,0.69
+2018,Research and Development,0.87
+2019,Research and Development,0.94
+2020,Research and Development,1.31
+2021,Research and Development,1.12
+2022,Research and Development,1.14
+2023,Research and Development,1.15
+2024,Research and Development,0.63
+2025,Research and Development,0.21
+2026,Research and Development,0.11
+2000,Sales,0.00
+2001,Sales,1.98
+2002,Sales,0.00
+2003,Sales,0.72
+2004,Sales,0.26
+2005,Sales,1.31
+2006,Sales,0.75
+2007,Sales,0.32
+2008,Sales,1.11
+2009,Sales,0.50
+2010,Sales,0.89
+2011,Sales,0.82
+2012,Sales,0.76
+2013,Sales,0.97
+2014,Sales,0.75
+2015,Sales,1.01
+2016,Sales,1.18
+2017,Sales,0.83
+2018,Sales,0.85
+2019,Sales,0.81
+2020,Sales,0.65
+2021,Sales,0.90
+2022,Sales,1.28
+2023,Sales,1.11
+2024,Sales,0.62
+2025,Sales,1.19
+2026,Sales,0.44
+2000,Services,0.00
+2001,Services,1.10
+2002,Services,0.00
+2003,Services,0.00
+2004,Services,0.31
+2005,Services,0.48
+2006,Services,1.45
+2007,Services,0.53
+2008,Services,0.92
+2009,Services,0.67
+2010,Services,1.08
+2011,Services,0.34
+2012,Services,1.04
+2013,Services,0.77
+2014,Services,0.45
+2015,Services,1.36
+2016,Services,0.71
+2017,Services,1.35
+2018,Services,1.06
+2019,Services,1.36
+2020,Services,0.72
+2021,Services,0.79
+2022,Services,0.79
+2023,Services,0.60
+2024,Services,0.74
+2025,Services,0.88
+2026,Services,0.34
+2000,Support,0.00
+2001,Support,1.96
+2002,Support,1.11
+2003,Support,0.00
+2004,Support,0.54
+2005,Support,0.00
+2006,Support,1.49
+2007,Support,0.97
+2008,Support,0.83
+2009,Support,0.72
+2010,Support,0.86
+2011,Support,0.98
+2012,Support,0.91
+2013,Support,1.01
+2014,Support,1.28
+2015,Support,0.74
+2016,Support,0.41
+2017,Support,1.18
+2018,Support,0.50
+2019,Support,0.72
+2020,Support,0.57
+2021,Support,1.15
+2022,Support,1.05
+2023,Support,0.47
+2024,Support,1.66
+2025,Support,1.08
+2026,Support,0.60
+2000,Training,0.00
+2001,Training,0.00
+2002,Training,0.51
+2003,Training,2.17
+2004,Training,0.00
+2005,Training,0.45
+2006,Training,0.75
+2007,Training,0.99
+2008,Training,0.72
+2009,Training,0.91
+2010,Training,1.43
+2011,Training,0.44
+2012,Training,0.71
+2013,Training,1.33
+2014,Training,0.80
+2015,Training,0.92
+2016,Training,1.02
+2017,Training,1.04
+2018,Training,0.92
+2019,Training,0.54
+2020,Training,0.84
+2021,Training,1.11
+2022,Training,1.13
+2023,Training,0.94
+2024,Training,0.95
+2025,Training,0.68
+2026,Training,0.48
